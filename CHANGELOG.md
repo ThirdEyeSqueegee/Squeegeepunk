@@ -1,3 +1,17 @@
+# v1.0.4
+
+- Add RedData
+- Add RedFileSystem
+- Add HUD Painter
+- Add E3-ISH Color Scheme for HUD Painter
+- Add Teko Font and Menus Recolor
+- Add Lizzie's Braindances
+- Add Stash and Backpack Search
+- Add Smarter Scrapper
+- Add Cyberpunk Ultra Plus Better Path Tracing and Stutter Hotfix (Optional - Path Tracing)
+- Add RT DEBRIS (Optional - Path Tracing)
+- Add Wind Begone (Optional - Path Tracing)
+
 # v1.0.3
 
 - Add Stanley's Morning Audio Fix
