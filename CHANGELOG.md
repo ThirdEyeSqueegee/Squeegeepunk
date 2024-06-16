@@ -1,3 +1,13 @@
+# v1.0.3
+
+- Add Stanley's Morning Audio Fix
+- Add Quiet Menus
+- Add Better Vehicle Radio
+- Add In-World Navigation
+- Add Silent Silencers and Throwing Knives
+- Add Romance Hangouts Enhanced
+- Add The Passenger
+
 # v1.0.2
 
 - Add configs
