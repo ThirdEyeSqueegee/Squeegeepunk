@@ -16,9 +16,10 @@
 # Post-installation
 
 1. If you have an AMD GPU, run the `DisableNvidiaSignatureChecks.reg` file found in `FSR3 Frame Gen for Cyberpunk 2077 (AMD)`
-2. If you have an NVIDIA GPU, disable the `FSR3 Frame Gen for Cyberpunk 2077 (AMD)` mod and enable `FSR3 Frame Gen for Cyberpunk 2077 (NVIDIA)` instead
-3. Find `ModOrganizer.exe` in the folder you installed the modlist to
-4. Click the "Run" button on the top right in MO2 to launch Squeegeepunk
+2. If you have an NVIDIA GPU that supports DLSS-FG, disable `FSR3 Frame Gen for Cyberpunk 2077 (AMD)`
+3. If you have an NVIDIA GPU that doesn't support DLSS-FG, disable the `FSR3 Frame Gen for Cyberpunk 2077 (AMD)` mod and enable `FSR3 Frame Gen for Cyberpunk 2077 (NVIDIA)` instead
+4. Find `ModOrganizer.exe` in the folder you installed the modlist to
+5. Click the "Run" button on the top right in MO2 to launch Squeegeepunk
 
 # Updating
 
