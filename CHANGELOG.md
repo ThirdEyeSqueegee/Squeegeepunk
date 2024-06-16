@@ -1,3 +1,7 @@
+# v1.0.2
+
+- Add configs
+
 # v1.0.1
 
 - Add Render Plane Fix - Clothing (Sleeves) behind hands fix
