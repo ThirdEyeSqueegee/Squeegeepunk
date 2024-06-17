@@ -1,3 +1,12 @@
+# v1.0.5
+
+- Add Fast Travel from anywhere to everywhere
+- Add reFlash 2.0
+- Add Realistic Bullet Hole Textures
+- Add Cyberpunk 2077 HD Reworked Project
+- Remove Teko Font and Menus Recolor
+- Tweak configs
+
 # v1.0.4
 
 - Add RedData
