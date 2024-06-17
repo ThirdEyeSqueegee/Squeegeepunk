@@ -1,3 +1,12 @@
+# v1.0.6
+
+- Add I Really Want To Stay At Your House - Judy
+- Add I Really Want To Stay At Your House - Panam
+- Add I Really Want To Stay At Your House - River
+- Add I Really Want To Stay At Your House - Kerry
+- Remove GTA Travel
+- Remove Limited HUD
+
 # v1.0.5
 
 - Add Fast Travel from anywhere to everywhere
