@@ -1,3 +1,10 @@
+# v1.0.7
+
+- Add Glow Begone
+- Remove In-World Navigation
+- Remove HUD Painter
+- Remove E3-ISH Color Scheme for HUD Painter
+
 # v1.0.6
 
 - Add I Really Want To Stay At Your House - Judy
