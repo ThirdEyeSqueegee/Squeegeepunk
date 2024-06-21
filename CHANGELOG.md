@@ -1,3 +1,8 @@
+# v1.0.8
+
+- Remove Kiroshi Optics Night Vision Mod
+- Fix missing trash objects
+
 # v1.0.7
 
 - Add Glow Begone
