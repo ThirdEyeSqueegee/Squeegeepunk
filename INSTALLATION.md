@@ -20,6 +20,7 @@
 3. If you have an NVIDIA GPU that doesn't support DLSS-FG, disable the `FSR3 Frame Gen for Cyberpunk 2077 (AMD)` mod and enable `FSR3 Frame Gen for Cyberpunk 2077 (NVIDIA)` instead
 4. Find `ModOrganizer.exe` in the folder you installed the modlist to
 5. Click the "Run" button on the top right in MO2 to launch Squeegeepunk
+6. Enable frame generation in the graphics section of the in-game settings menu
 
 # Updating
 
