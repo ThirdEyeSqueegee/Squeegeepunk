@@ -1,3 +1,12 @@
+# v1.0.9
+
+- Add Responsive NPCs
+- Add GITS 3.X
+- Add Weathermancer - Weather Select Menu
+- Remove Enhanced Weather V6
+- Remove Alternative Weather Visuals
+- Remove Nova LUT 2
+
 # v1.0.8
 
 - Remove Kiroshi Optics Night Vision Mod
