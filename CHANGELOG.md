@@ -1,3 +1,9 @@
+# v1.0.10
+
+- Add Alternative Weather Visuals
+- Add Enhanced Weather V6
+- Remove GITS 3.X
+
 # v1.0.9
 
 - Add Responsive NPCs
