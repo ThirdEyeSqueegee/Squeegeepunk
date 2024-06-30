@@ -1,3 +1,8 @@
+# v1.0.11
+
+- Add Immersive Fixers
+- Add Dynamic Wanted Stars
+
 # v1.0.10
 
 - Add Alternative Weather Visuals
