@@ -1,3 +1,8 @@
+# v1.0.12
+
+- Add Throwable Aim Slow Time
+- Add Manual Transmission
+
 # v1.0.11
 
 - Add Immersive Fixers
