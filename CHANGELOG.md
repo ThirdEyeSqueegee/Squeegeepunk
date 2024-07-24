@@ -1,3 +1,16 @@
+# v1.0.13
+
+- Add No More Duplicate NPCs
+- Add Preem Fixes
+- Add Archive Conflict Checker Tool
+- Add Manually Enhanced Atmospheric Clouds - Texture Swaps
+- Add Night City Visuals Nulled
+- Add Nulled World Env FX Triggers - Proper Weather Everywhere
+- Add Scanner Fixes For Env Mods - Nulled Scanner Env Params
+- Add Irradiant Flux - Lighting And Weather Overhaul
+- Remove Alternative Weather Visuals
+- Remove Enhanced Weather V6
+
 # v1.0.12
 
 - Add Throwable Aim Slow Time
