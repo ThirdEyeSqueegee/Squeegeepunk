@@ -1,3 +1,18 @@
+# v1.0.14
+
+- Add Dash Fix
+- Add Dynamic NPC Items
+- Add Dynamic Cherry Blossoms
+- Add Particles Flickering Fix
+- Add Disable Fake Lights with Path Tracing (Optional - Path Tracing)
+- Add Forbidden Vehicle Movement No More
+- Add Improved Bottles and Tableware
+- Add Clothing Shadows Fix (Optional - Path Tracing)
+- Add Immersive Crafting Access
+- Add V's Apartment TV Volume Fix
+- Add Parking Spots Enhanced
+- Add TV Mute Control
+
 # v1.0.13
 
 - Add No More Duplicate NPCs
