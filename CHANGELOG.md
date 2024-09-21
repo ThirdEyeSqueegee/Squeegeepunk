@@ -1,3 +1,19 @@
+# v1.1.0
+
+- Add Decals Flickering Fix
+- Add Vehicle Durability Display
+- Add Photo Mode Shadows Hotfix
+- Add Passenger Targeting Fix
+- Add Loot Icons Extension
+- Add Audioware
+- Add Ah shit. Here we go again
+- Add Random Netrunners
+- Add Better Children
+- Add Night City Recolor
+- Add Dynamic Graffiti
+- Remove FSR3 Frame Gen for Cyberpunk 2077
+- Remove FrameGen Ghosting 'Fix' for FSR3 FG Mods
+
 # v1.0.14
 
 - Add Dash Fix
