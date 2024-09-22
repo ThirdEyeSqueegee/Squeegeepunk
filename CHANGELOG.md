@@ -1,3 +1,8 @@
+# v1.1.1
+
+- Add FSR3 Frame Gen for Cyberpunk 2077
+- Add FrameGen Ghosting 'Fix' for FSR
+
 # v1.1.0
 
 - Add Decals Flickering Fix
