@@ -1,3 +1,76 @@
+# v1.1.2
+
+- Add Numerals Get Commas
+- Add Dual Wield
+- Add EconomyPunk
+- Add Gunsensical
+- Add Better Attachments
+- Add React To Horn - Get out of my way NPC
+- Add Melee Attacks Fixes And Enhancements
+- Add Rasetsu screens bug fix
+- Add Faster Elevators
+- Add Preem Menu
+- Add NPC Action Poses Fix
+- Add Deceptious Bug Fixes
+- Add Starry Night City
+- Add Preem Map
+- Add All Vehicles Can Steer
+- Add Quest Trigger Fixes
+- Add Enemies Dodging Fix
+- Add Improved Vehicle Glass Destruction Effects
+- Add Better Rain Ripples
+- Add Fix Advert Animations
+- Add HQ Sushi
+- Add Throttled Activity Log
+- Add Revised Backpack
+- Add Sort Ripperdoc Inventory
+- Add Fixed Tarps And Corrugated Sheets
+- Add Improved NCPD Map Filters
+- Add Minimap Widgets
+- Add True Grip - Slope Traction and Handbrake Handling Fix
+- Add Pre-2.0 NCPD Scanner Map Icons
+- Add Overclock Health-RAM Drain Bug Fix
+- Add Vehicle Call List Revamp
+- Add Crafting Component Quantity Text
+- Add More Weapon Columns
+- Add The Lamp Lighter - Streetlamp Time Control
+- Add Preem Weather
+- Remove 4k New Female complexions and better NPCs
+- Remove Irradiant Flux - Lighting And Weather Overhaul
+- Remove FSR3 Frame Gen for Cyberpunk 2077
+- Remove Ah shit. Here we go again
+- Remove Audioware
+- Remove Bug Fix - Base Fists and Arm Cyberware Attack Speed Fix
+- Remove Bug Fix - Full-Auto Tech Weapons Bolt Duration
+- Remove Bug Fix - Recon Grenade Bouce Fix
+- Remove Immersive First Person
+- Remove Japantown Cleaver Fix
+- Remove No More Duplicate NPCs
+- Remove Nulled World Env FX Triggers - Proper Weather Everywhere
+- Remove Passenger Targeting Fix
+- Remove Stanley's Morning Audio Fix
+- Remove Repeating Synaptic Accelerator Bug Fix
+- Remove TV Audio Fixes
+- Remove V's Apartment TV Volume Fix
+- Remove Scanner Fixes For Env Mods - Nulled Scanner Env Params
+- Remove TV Adverts Fixes
+- Remove Cleaner Main Menu and Pause Menu
+- Remove Vehicle Call List Revamp
+- Remove Dynamic Cherry Blossoms
+- Remove Dynamic Graffiti
+- Remove Dynamic NPC Items
+- Remove Night City Recolor
+- Remove E3 Smart Windows
+- Remove Manual Transmission
+- Remove Simple Flashlight
+- Remove Crowd E3 2018 Restored
+- Remove Immersion patch - No crowd panic from stealth activity
+- Remove Immersion patch - No crowd panic from using devices
+- Remove Immersive Sunglasses
+- Remove Responsive NPCs
+- Remove The Passenger
+- Remove Clothing Shadows Fix
+
 # v1.1.1
 
 - Add FSR3 Frame Gen for Cyberpunk 2077
